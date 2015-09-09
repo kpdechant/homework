@@ -1,0 +1,25 @@
+body {
+	color: black; 
+	font-family: Arial, Serif;
+	font-size: 14px;
+	border-bottom: 5px solid #222222;
+	border-top: 5px solid #222222;
+	margin: 28px 25px 48px 58px;
+	margin: 30px;
+}
+a {
+    color: #000000;
+    text-decoration: underline;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+img {
+   padding:1px;
+   border:1px solid #021a40;
+   padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
