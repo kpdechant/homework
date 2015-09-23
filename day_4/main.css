@@ -1,0 +1,135 @@
+div.background {
+    background: url(coworking.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0px;
+}
+
+nav ul li {
+	display: inline;
+	font-family: sans-serif;
+	color: white;
+	padding: 5px;
+
+}
+
+nav ul {
+	text-align: right;
+	padding-right: 10px;
+}
+
+li.bold {
+	font-size: 16px;
+	font-weight: bold;
+
+}
+
+li.regular {
+	font size: 14px;
+}
+
+h1 {
+	color: yellow;
+}
+
+header {
+	background: black;
+	margin: 0px;
+	border-bottom: 2px solid yellow;
+	padding: 20px;
+}
+
+div.tagline {
+	text-align: center;
+	font-style: italic;
+	background: #999999;
+	height: 50px;
+}
+h2 {
+	margin: 0px;
+	padding-top: 20px;
+}
+
+span.strike {
+	color: #666666;
+}
+
+span.underline {
+	border-bottom: 2px solid yellow;
+}
+
+h3 {
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+p.callout {
+	line-height: 1.5; 
+}
+
+div.callout {
+	float: right;
+	border: 1px solid #666666;
+	width: 25%;
+	background: rgba(220 220 220 0.7);
+	height: 500px;
+	margin: 25px;
+	padding: 25px;
+}
+
+button {
+	width: 5%;
+	height: 40px;
+	border-radius: 5px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+button.yellow {
+	background: yellow; 
+}
+
+div.three-column {
+	width: 100%;
+	padding: 10px 1% 10px 1%; 
+	height: 200px;
+}
+
+div.column-1 {
+	float: left;
+	width: 30%;
+}
+
+div.column-2 {
+	float: left;
+	width: 30%;
+	margin: 0px 3.5% 0px 3.5%;
+	border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+
+}
+
+div.column-3 {
+	float: left;
+	width: 31%;
+}
+
+footer {
+	margin: 0px;
+	clear: both;
+	background: black;
+	color: white;
+	font-family: sans-serif;
+	height: 70px;
+	padding: 10px 0px 0px 10px;
+}
