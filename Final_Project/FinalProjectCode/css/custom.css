@@ -28,7 +28,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('https://pixabay.com/static/uploads/photo/2014/12/20/09/18/running-573762_640.jpg');
+    background-image: url('/images/running.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -145,11 +145,11 @@ header .header-content .header-content-inner p {
 }
 
 .item-1 {
-	background: url('../images/pillows-820149_1280.jpg');
+	background: url('../images/pillows.jpg');
 	}
 	
 .item-2 {
-	background: url('https://pixabay.com/get/ad4f7f5c83c41b05d644/1446509245/pillows-820149_1280.jpg?direct');
+	background: url('/images/water.jpg');
 	}
 	
 .item-3 {
